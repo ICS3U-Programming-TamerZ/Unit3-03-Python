@@ -23,7 +23,7 @@ def main():
 
     # Code shows if the user guessed incorrectly.
     else:
-        print(f"You guessed incorrectly. The correct answer was {number}")
+        print("You guessed incorrectly. The correct answer was {number}")
 
 
 if __name__ == "__main__":
